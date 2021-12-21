@@ -12,3 +12,20 @@ GitHub: [h2lo](https://github.com/h2lo)
 ## About me
 I'm a beginner in the IT field!
 
+## Skills
+* HTML5
+
+* CSS3
+
+* Javascript
+
+* Git, GitHub
+
+* VS Code
+
+## Code example
+```javascript
+function multiply(a, b){
+return a * b
+  }
+```
