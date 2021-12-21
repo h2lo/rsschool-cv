@@ -41,6 +41,6 @@ I don't have any experience in the IT area.
    * [Code Basics](https://ru.code-basics.com)
    * [HTML Academy](https://htmlacademy.ru)
 
- ## Languages 
+## Languages 
 English – A2
 
