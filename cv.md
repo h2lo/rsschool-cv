@@ -29,3 +29,10 @@ function multiply(a, b){
 return a * b
   }
 ```
+
+## Experience
+I don't have any experience in the IT area.
+
+## Education
+**Belarusian State University**, Faculty of Chemistry
+
