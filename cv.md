@@ -36,3 +36,11 @@ I don't have any experience in the IT area.
 ## Education
 **Belarusian State University**, Faculty of Chemistry
 
+**Courses:**
+   * [RS School](https://rs.school) (JS/FRONT-END STAGE 0)
+   * [Code Basics](https://ru.code-basics.com)
+   * [HTML Academy](https://htmlacademy.ru)
+
+ ## Languages 
+English – A2
+
